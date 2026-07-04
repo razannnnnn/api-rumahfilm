@@ -1,8 +1,8 @@
 ### Backend Rumahfilm
 
 ```bash
-git clone https://github.com/razannnnnn/rumahfilm.git
-cd rumahfilm
+git clone https://github.com/razannnnnn/api-rumahfilm
+cd api-rumahfilm
 npm install
 
 # Buat .env
